@@ -7,6 +7,6 @@ test-afisher1117 created by GitHub Classroom
 
 ###### Ok, we're getting crazy now. 
 
-there is also *much* # *MUCH* more to see on the markdown cheat sheet available here- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+there is also *much*  ***MUCH*** more to see on the markdown cheat sheet available here- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 thats it. 
